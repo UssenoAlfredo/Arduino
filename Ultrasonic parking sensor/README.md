@@ -17,8 +17,8 @@ The sensor measures the distance to an obstacle in front of the vehicle and emit
 - When the object gets closer: the buzzer beeps at a higher frequency (2000 Hz) and the red LED is on.
 
 ## 📸 Circuit Image:
-(Add the image here after
+[Circuit Image](Ultrasonic-sensor.png).
 
 ## 📄 Source Code:
-The code is in the file `sensor-ultrassonico.ino`.
+[Click here to view the Arduino code](Ultrasonic-Sensor.ino)
 
